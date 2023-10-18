@@ -10,6 +10,7 @@ radius = 12.6491
 [node name="Area2D" type="Area2D" parent="." groups=["Food"]]
 
 [node name="FoodSprite" type="Sprite2D" parent="Area2D"]
+z_index = 4
 position = Vector2(0, 0.5)
 texture = ExtResource("1_yrd84")
 
