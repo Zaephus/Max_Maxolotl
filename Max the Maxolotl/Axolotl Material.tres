@@ -1,0 +1,7 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://bajgs1ibjcpb5"]
+
+[ext_resource type="Shader" path="res://Basic.gdshader" id="1_p3key"]
+
+[resource]
+shader = ExtResource("1_p3key")
+shader_parameter/color = Color(1, 0.490196, 0.839216, 1)
