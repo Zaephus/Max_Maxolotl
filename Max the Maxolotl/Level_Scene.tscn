@@ -6,7 +6,7 @@
 [ext_resource type="PackedScene" uid="uid://bpncwjwdu2d7x" path="res://Food.tscn" id="4_e6lej"]
 [ext_resource type="TileSet" uid="uid://drpn00x5731dx" path="res://Main_Tileset.tres" id="5_c3g1b"]
 
-[node name="Main" type="Node2D"]
+[node name="Level" type="Node2D"]
 script = ExtResource("1_w6atb")
 
 [node name="Background" type="Sprite2D" parent="."]
